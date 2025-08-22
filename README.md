@@ -1,4 +1,4 @@
-﻿# Lane-Vison
+﻿# Lane-Vision
 # 🚦 Traffic Flow Analysis  
 **Lane-wise Vehicle Counter using YOLOv8 + OpenCV**  
 
@@ -56,4 +56,5 @@ Traffic_Flow_Analysis/
 │── data/            # Input videos / datasets
 │── output/          # Processed results (CSV, overlay video)
 │── README.md        # Documentation
+
 
